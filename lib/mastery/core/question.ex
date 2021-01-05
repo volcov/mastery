@@ -1,3 +1,3 @@
 defmodule Mastery.Core.Question do
-  defstruct ~w[asked subtitutions template]a
+  defstruct ~w[asked substitutions template]a
 end
